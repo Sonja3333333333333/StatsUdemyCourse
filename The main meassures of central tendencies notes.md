@@ -1,8 +1,3 @@
----
-title: The main meassures of central tendencies notes
-
----
-
 # The main measssures of central tendencies 
 
 We're learning about mode, median and mean.
